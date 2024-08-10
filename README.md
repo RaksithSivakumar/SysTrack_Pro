@@ -8,26 +8,17 @@ Enhancing IT performance with real-time monitoring and advanced analytics.
 🎨 Customizable Dashboards: Tailor your monitoring experience with personalized dashboards focusing on the metrics that matter.
 ⚠️ Automated Alerts: Set up alerts to notify you of critical system events or threshold breaches.
 📝 Comprehensive Reporting: Generate detailed reports on system performance, user activity, and more.
-🛠️ Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/systrack_pro.git
+🛠️ Installation
+git clone https://github.com/RaksithSivakumar/systrack_pro.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd systrack_pro
 Install the required dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Run the application:
 
-bash
-Copy code
 python main.py
 
 💡 Usage
