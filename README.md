@@ -1,4 +1,4 @@
-🌟 SysTrack_Pro 🌟
+                                                              🌟 SysTrack_Pro 🌟
 
 Enhancing IT performance with real-time monitoring and advanced analytics.
 
@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/RaksithSivakumar/systrack_pro.git
+git clone https://github.com/yourusername/systrack_pro.git
 Navigate to the project directory:
 
 bash
@@ -49,9 +49,8 @@ Submit a pull request for review.
 Make sure your code follows our style guidelines and passes all tests. Thank you for your contributions!
 
 📬 Contact
-
 For any questions or feedback:
 
-📧 Email: risivandev@gmail.com
+📧 Email: support@systrackpro.com
 
 🐙 GitHub Issues: Open an issue on this repository
