@@ -14,9 +14,11 @@ git clone https://github.com/RaksithSivakumar/systrack_pro.git
 Navigate to the project directory:
 
 cd systrack_pro
+
 Install the required dependencies:
 
 pip install -r requirements.txt
+
 Run the application:
 
 python main.py
