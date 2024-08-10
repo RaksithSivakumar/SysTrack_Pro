@@ -1,4 +1,4 @@
-                                                              🌟 SysTrack_Pro 🌟
+🌟 SysTrack_Pro 🌟
 
 Enhancing IT performance with real-time monitoring and advanced analytics.
 
@@ -51,6 +51,6 @@ Make sure your code follows our style guidelines and passes all tests. Thank you
 📬 Contact
 For any questions or feedback:
 
-📧 Email: support@systrackpro.com
+📧 Email: risivandev@gmail.com
 
 🐙 GitHub Issues: Open an issue on this repository
