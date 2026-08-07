@@ -22,6 +22,7 @@
 - [Known Limitations](#known-limitations)
 - [Contributing](#contributing)
 - [Contact](#contact)
+- [License](#license)
 
 ---
 
@@ -288,6 +289,12 @@ Please open an issue first for significant changes so the approach can be discus
 **Raksith**
 - Email: [risivandev@gmail.com](mailto:risivandev@gmail.com)
 - GitHub Issues: [Open an issue](https://github.com/RaksithSivakumar/systrack_pro/issues)
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
